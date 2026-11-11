@@ -1,6 +1,5 @@
 <div align="center">
     <h3> Hello I'm Hugo Hatori and I'm always learning new technologies! </h3>
-    <h4> Just started learning Javascript</h4>
 <br>
 
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hugo-massashi-hatori-936787209/)
